@@ -2,6 +2,7 @@
 
 This repository provides a simple and efficient way to edit Excel files programmatically. It allows users to read, modify, and save Excel spreadsheets with ease.
 
+[Demo](https://ajaychaurasiya-cs.github.io/excel-file-editor/).
 ## Features
 - Open and read Excel files
 - Edit cell values
@@ -30,6 +31,6 @@ Contributions are welcome! Feel free to fork this repository, make modifications
 
 ## Contact
 For any issues or suggestions, feel free to raise an issue in the repository.
-Here [Linkdin](https://www.linkedin.com/in/ajaychaurasiya-cs/).
+Here [Linkedin](https://www.linkedin.com/in/ajaychaurasiya-cs/).
 
 
