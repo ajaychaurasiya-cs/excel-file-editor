@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excel-file-editor/static/css/main.f6702419.css",
+    "main.js": "/excel-file-editor/static/js/main.1af1a748.js",
+    "index.html": "/excel-file-editor/index.html",
+    "main.f6702419.css.map": "/excel-file-editor/static/css/main.f6702419.css.map",
+    "main.1af1a748.js.map": "/excel-file-editor/static/js/main.1af1a748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6702419.css",
+    "static/js/main.1af1a748.js"
+  ]
+}
